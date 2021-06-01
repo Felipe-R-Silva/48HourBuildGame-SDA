@@ -1,6 +1,7 @@
 # 48HourBuildGame-SDA
 this is only the script because the file is to large. I will add a link to all files in README
 --------------------------------------------------------------------------------------------------------
+link zip do projeto todo : https://drive.google.com/file/d/1OBcyR4JU3BM7zT8-_M3x0wCHTpo4MWKW/view?usp=sharing
 O projeto esta no Unity Collab se voce me mandar seu email eu adiciono voce no projeto.
 Link para video do jogo e projeto :https://drive.google.com/drive/folders/172kdY-YJumyiPHGU8IH4DjqLMejClsVQ?usp=sharing
 
